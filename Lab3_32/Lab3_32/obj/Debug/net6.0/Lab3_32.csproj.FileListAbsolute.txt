@@ -1,0 +1,15 @@
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\bin\Debug\net6.0\Lab3_32.exe
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\bin\Debug\net6.0\Lab3_32.deps.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\bin\Debug\net6.0\Lab3_32.runtimeconfig.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\bin\Debug\net6.0\Lab3_32.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\bin\Debug\net6.0\Lab3_32.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.csproj.AssemblyReference.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.AssemblyInfoInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.AssemblyInfo.cs
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.csproj.CoreCompileInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\refint\Lab3_32.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\Lab3_32.genruntimeconfig.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab3_32\Lab3_32\obj\Debug\net6.0\ref\Lab3_32.dll
