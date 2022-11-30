@@ -1,0 +1,38 @@
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/Lab4_32.exe
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/Lab4_32.deps.json
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/Lab4_32.runtimeconfig.json
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/Lab4_32.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/Lab4_32.pdb
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/McMaster.Extensions.CommandLineUtils.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/ClassLibrary.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/bin/Debug/net6.0/ClassLibrary.pdb
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.AssemblyReference.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.GeneratedMSBuildEditorConfig.editorconfig
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.AssemblyInfoInputs.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.AssemblyInfo.cs
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.CoreCompileInputs.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.CopyComplete
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/refint/Lab4_32.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.pdb
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/Lab4_32.genruntimeconfig.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/Lab4_32/obj/Debug/net6.0/ref/Lab4_32.dll
+/data/Lab4_32/bin/Debug/net6.0/Lab4_32
+/data/Lab4_32/bin/Debug/net6.0/Lab4_32.deps.json
+/data/Lab4_32/bin/Debug/net6.0/Lab4_32.runtimeconfig.json
+/data/Lab4_32/bin/Debug/net6.0/Lab4_32.dll
+/data/Lab4_32/bin/Debug/net6.0/Lab4_32.pdb
+/data/Lab4_32/bin/Debug/net6.0/McMaster.Extensions.CommandLineUtils.dll
+/data/Lab4_32/bin/Debug/net6.0/ClassLibrary.dll
+/data/Lab4_32/bin/Debug/net6.0/ClassLibrary.pdb
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.AssemblyReference.cache
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.GeneratedMSBuildEditorConfig.editorconfig
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.AssemblyInfoInputs.cache
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.AssemblyInfo.cs
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.CoreCompileInputs.cache
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.csproj.CopyComplete
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.dll
+/data/Lab4_32/obj/Debug/net6.0/ref/Lab4_32.dll
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.pdb
+/data/Lab4_32/obj/Debug/net6.0/Lab4_32.genruntimeconfig.cache
+/data/Lab4_32/obj/Debug/net6.0/refint/Lab4_32.dll

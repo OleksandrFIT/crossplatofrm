@@ -1,0 +1,24 @@
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/refint/ClassLibrary.dll
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+F:/FreeLance/Sasha Drahan/Lab4_32/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
+/data/ClassLibrary/bin/Debug/net6.0/ClassLibrary.deps.json
+/data/ClassLibrary/bin/Debug/net6.0/ClassLibrary.dll
+/data/ClassLibrary/bin/Debug/net6.0/ClassLibrary.pdb
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.AssemblyReference.cache
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfoInputs.cache
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.AssemblyInfo.cs
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.csproj.CoreCompileInputs.cache
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.dll
+/data/ClassLibrary/obj/Debug/net6.0/ref/ClassLibrary.dll
+/data/ClassLibrary/obj/Debug/net6.0/ClassLibrary.pdb
+/data/ClassLibrary/obj/Debug/net6.0/refint/ClassLibrary.dll

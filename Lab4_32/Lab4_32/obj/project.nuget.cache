@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "cM4aheAACNMT+BcPqN9KCyba25MztjccMWTWwR+3vDYUmABBTCwx5xH+qRLP0agOoMn+b1kdtc1ho/xIUrzwzw==",
+  "success": true,
+  "projectFilePath": "/Users/oleksandrdragan/Documents/knu/Lab4_32/Lab4_32/Lab4_32.csproj",
+  "expectedPackageFiles": [
+    "/Users/oleksandrdragan/.nuget/packages/mcmaster.extensions.commandlineutils/4.0.1/mcmaster.extensions.commandlineutils.4.0.1.nupkg.sha512",
+    "/Users/oleksandrdragan/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\Lab4_32.exe
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\Lab4_32.dll
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\Lab4_32.deps.json
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\Lab4_32.runtimeconfig.json
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\Lab4_32.pdb
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\McMaster.Extensions.CommandLineUtils.dll
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\ClassLibrary.dll
+F:\FreeLance\Sasha Drahan\Lab4_32\Lab4_32\bin\Debug\net6.0\publish\ClassLibrary.pdb

@@ -1,0 +1,8 @@
+/data/Lab4_32/bin/Debug/net6.0/publish/Lab4_32
+/data/Lab4_32/bin/Debug/net6.0/publish/Lab4_32.dll
+/data/Lab4_32/bin/Debug/net6.0/publish/Lab4_32.deps.json
+/data/Lab4_32/bin/Debug/net6.0/publish/Lab4_32.runtimeconfig.json
+/data/Lab4_32/bin/Debug/net6.0/publish/Lab4_32.pdb
+/data/Lab4_32/bin/Debug/net6.0/publish/McMaster.Extensions.CommandLineUtils.dll
+/data/Lab4_32/bin/Debug/net6.0/publish/ClassLibrary.dll
+/data/Lab4_32/bin/Debug/net6.0/publish/ClassLibrary.pdb

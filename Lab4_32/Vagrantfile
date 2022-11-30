@@ -1,0 +1,23 @@
+
+$script = <<-SCRIPT 
+sudo snap remove dotnet-sdk
+wget https://packages.microsoft.com/config/ubuntu/22.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
+sudo dpkg -i packages-microsoft-prod.deb
+rm packages-microsoft-prod.deb
+sudo apt-get update 
+sudo apt-get install -y dotnet-sdk-6.0
+sudo apt install mc -y 
+dotnet tool install --global --add-source http://192.168.1.215:8080/v3/index.json Lab4_32
+exit
+SCRIPT
+
+Vagrant.configure("2") do |config|
+  
+  config.vm.box = "ubuntu/focal64"
+  config.vm.provision "shell", inline: $script, privileged: false
+  
+  config.vm.network "public_network", ip: "192.168.1.220"
+
+ config.vm.synced_folder ".", "/data"
+
+end
